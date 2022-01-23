@@ -1,3 +1,3 @@
-# JournalApp
+# Login with Firebase
 
-Una aplicación para llevar mi diario hecha con React y Redux.
+You remember change the firebase-config file with your info
