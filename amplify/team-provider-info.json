@@ -10,6 +10,11 @@
       "StackName": "amplify-reactreduxjournalapp-dev-140141",
       "StackId": "arn:aws:cloudformation:eu-north-1:712820740213:stack/amplify-reactreduxjournalapp-dev-140141/a9b54ba0-8ab4-11ec-9477-0e2fb9bd3988",
       "AmplifyAppId": "d2j7kgmdt0s5ig"
+    },
+    "categories": {
+      "auth": {
+        "reactreduxjournalappfa3f81f4": {}
+      }
     }
   }
 }
